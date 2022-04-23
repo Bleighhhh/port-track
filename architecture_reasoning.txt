@@ -1,0 +1,9 @@
+Il tizio quando para di refactoring the program dice:
+
+1.  la main function in questo momento fa 2 cose, e idalmente una funzione dovrebbe avere solo una responsabilità:
+
+	1.1 Ciò mi porta a riflettere sulle responsabilità che ci sono nel mio programma: a) leggere i dati del file
+	2.2 b) scrivere i dati sul file (dovrei aggiungere una che modifica?)
+	1.3 c) calcolare i rendimenti?? boh
+
+In realtà questa cosa la posso fare commentando nel programma ma purtroppo devo ancora capirebene cosa e come fare le cose 
